@@ -1,4 +1,1 @@
 source "https://api.berkshelf.com"
-
-cookbook 'ntp', '~> 2.0.0'
-cookbook 'chef-server', '= 2.1.6'
