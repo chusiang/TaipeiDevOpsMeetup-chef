@@ -2,3 +2,4 @@ chef-repo/Berksfile.lock
 chef-repo/cookbooks/ntp
 chef-repo/cookbooks/windows
 chef-repo/cookbooks/chef-server
+.vagrant
