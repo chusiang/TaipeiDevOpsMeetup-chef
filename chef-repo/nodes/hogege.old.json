@@ -1,8 +1,0 @@
-{
-  "user": {
-      "name": "webcyou!"
-        },
-  "run_list": [
-    "recipe[hello]"
-  ]
-}
