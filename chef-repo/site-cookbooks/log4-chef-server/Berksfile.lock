@@ -1,0 +1,9 @@
+DEPENDENCIES
+  chef-server (= 2.1.6)
+  log4-chef-server
+    path: .
+    metadata: true
+
+GRAPH
+  chef-server (2.1.6)
+  log4-chef-server (0.0.4)
