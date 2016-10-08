@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+
+gem "berkshelf"
+
+group :integration do
+end

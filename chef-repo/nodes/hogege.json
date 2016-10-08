@@ -1,0 +1,6 @@
+{
+  "run_list":[
+   "recipe[chef-server]",
+   "recipe[log4-chef-server]"
+          ]
+          }
